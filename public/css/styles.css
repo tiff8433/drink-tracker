@@ -1,0 +1,42 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Candal', Georgia, Times, serif;
+    padding-left: 10px;
+}
+h1 { 
+    text-shadow: 1px 1px 1px #ccc;
+}
+
+p, div {
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+}
+.navbar { 
+    background-color: steelblue;
+}
+body {
+  background: url(/img/crossword.png) repeat 0 0;
+}
+
+button{
+  box-shadow: 0 0 0.10em 0.10em #ccc;
+}
+
+.graph div {
+  font: 10px sans-serif;
+  background-color: steelblue;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+  height: 20px;
+}
+
+.danger {
+  font: 10px sans-serif;
+  background-color: #CD5C5C;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+  height: 20px;
+}
+

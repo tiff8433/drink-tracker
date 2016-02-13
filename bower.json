@@ -1,0 +1,22 @@
+
+{
+    "name": "2015-11-solo",
+    "version": "1.0.0",
+    "dependencies": {
+        "bootstrap": "~3.3.6",
+        "font-awesome": "latest",
+        "animate.css": "latest",
+        "angular": "~1.4.8",
+        "angular-route": "latest"   
+    },
+    "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components",
+      "test",
+      "tests"
+    ]
+}
+
+
+
